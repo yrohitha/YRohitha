@@ -5,9 +5,9 @@
 
 ### BIO
 
-💻 I’m a Data Analytics Engineer: Data Engineer topped with working of an Analyst <br><br>
-💬 Ping me about Data Engineering, Data Collection, Exploratory Data Analysis, DevOps <br><br>
-📊 I’m looking to collaborate with other Data Scientists and developers <br><br> 
+💻 I’m a Data Analytics Engineer: Data Engineer topped with working of an Analyst <br>
+💬 Ping me about Data Engineering, Data Collection, Exploratory Data Analysis, DevOps <br>
+📊 I’m looking to collaborate with other Data Scientists and developers <br>
 📈 I’m always learning new skills. Learning never ends ! <br>
 - [ ] AWS SageMaker
 - [ ] Spark
@@ -60,7 +60,22 @@
 
 ---
 
-<img align="left" alt="Rohitha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YRohitha&show_icons=true&hide_border=true" />
 
 [medium]: https://medium.com/@yrohitha996
 [linkedin]: https://www.linkedin.com/in/rohitha-yarlagadda-9b43721a7/
+
+<!--
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=YRohitha&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YRohitha&langs_count=5&theme=tokyonight)]()
+-->
+
+![](https://github-readme-stats.vercel.app/api?username=YRohitha&theme=light&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=YRohitha&theme=light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YRohitha&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=YRohitha&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br>
