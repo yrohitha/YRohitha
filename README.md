@@ -1,18 +1,26 @@
-### Hi there 👋
+[![Rohitha](https://img.shields.io/badge/Rohitha-<COLOR>.svg)](https://shields.io/)  ![Profile Views](https://komarev.com/ghpvc/?username=YRohitha&color=green) ![Followers](https://img.shields.io/github/followers/YRohitha)  ![Stars](https://img.shields.io/github/stars/YRohitha/YRohitha) 
 
-### Rohitha Yarlagadda - [Data Analyst]
+<b> Hi there, I'm Rohitha </b>👋<br>
 
 
-- 💻 I’m a Data Analyst
-- 📈 I’m always learning new skills. Learning never ends !
-- 📊 I’m looking to collaborate with other Data Scientists and developers 
+### BIO
 
-### Connect with me:
+💻 I’m a Data Analytics Engineer: Data Engineer topped with working of an Analyst <br><br>
+💬 Ping me about Data Engineering, Data Collection, Exploratory Data Analysis, DevOps <br><br>
+📊 I’m looking to collaborate with other Data Scientists and developers <br><br> 
+📈 I’m always learning new skills. Learning never ends ! <br>
+- [ ] AWS SageMaker
+- [ ] Spark
+- [ ] Sustainability
+- [ ] Machine Learning
+- [ ] Azure DataBricks
+
+
+### 📫 Connect with me:
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/rohitha-yarlagadda-9b43721a7/)
 
 [<img align="left" alt="cabreirajm | medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />](https://medium.com/@yrohitha996)
-
 
 
 <br />
