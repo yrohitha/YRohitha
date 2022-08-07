@@ -5,14 +5,19 @@
 
 ### BIO
 
-💻 I’m a Data Analytics Engineer: Data Engineer topped with working of an Analyst <br>
-💬 Ping me about Data Engineering, Data Collection, Exploratory Data Analysis, DevOps <br>
-📊 I’m looking to collaborate with other Data Scientists and developers <br>
-📈 I’m always learning new skills. Learning never ends ! <br>
+* 💻 I’m a Data Analytics Engineer
+* 💬 Ping me about 
+  * Data Engineering (#data-collection, #etl-prod-pipeline, #api-data-extraction, #best-practices)
+  * Data Analysis (#exploratory-data-analysis, #data-visualization, #automated-report-building, #requirement-gathering)
+  * Marketing (#google-analytics, #marketing-mix-models)
+  * DevOps (#project-scoping, #ease-of-deployment) 
+  * Anxiety
+* 📊 I’m looking to collaborate with other Data Scientists and developers 
+* 📈 I’m always learning new skills. Learning never ends ! 
 - [ ] AWS SageMaker
 - [ ] Spark
-- [ ] Sustainability
-- [ ] Machine Learning
+- [ ] Sustainability + ML case studies
+- [ ] Machine Learning (#model-selection, #tuning, #feature-engineering, #scaling)
 - [ ] Azure DataBricks
 
 
