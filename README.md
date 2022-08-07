@@ -7,8 +7,8 @@
 
 * 💻 I’m a Data Analytics Engineer
 * 💬 Ping me about 
-  * Data Engineering (#data-collection, #etl-prod-pipeline, #api-data-extraction, #best-practices)
-  * Data Analysis (#exploratory-data-analysis, #data-visualization, #automated-report-building, #requirement-gathering)
+  * Data Engineering (#data-collection, #etl-prod-pipeline, #api-data-extraction, #best-practices, #github)
+  * Data Analysis (#exploratory-data-analysis, #data-visualization, #statistical-analysis, #automated-report-building, #requirement-gathering)
   * Marketing (#google-analytics, #marketing-mix-models)
   * DevOps (#project-scoping, #ease-of-deployment) 
   * Anxiety
