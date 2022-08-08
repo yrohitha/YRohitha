@@ -78,9 +78,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YRohitha&theme=light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YRohitha&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-<br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YRohitha&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br>
