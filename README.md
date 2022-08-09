@@ -11,7 +11,7 @@
   * Data Analysis (#exploratory-data-analysis, #data-visualization, #statistical-analysis, #automated-report-building, #requirement-gathering)
   * Marketing (#google-analytics, #marketing-mix-models)
   * DevOps (#project-scoping, #ease-of-deployment) 
-  * Anxiety
+  * Friendly chat
 * 📊 I’m looking to collaborate with other Data Scientists and developers 
 * 📈 I’m always learning new skills. Learning never ends ! 
 - [ ] AWS SageMaker
