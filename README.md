@@ -13,7 +13,7 @@
   * DevOps (#project-scoping, #ease-of-deployment) 
   * Friendly chat
 * 📊 I’m looking to collaborate with other Data Scientists and developers 
-* 📈 I’m always learning new skills. Learning never ends ! 
+* 📈 Learning! 
 - [ ] AWS SageMaker
 - [ ] Spark
 - [ ] Sustainability + ML case studies
