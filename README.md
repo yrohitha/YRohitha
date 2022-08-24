@@ -16,7 +16,7 @@
 * 📈 Learning! 
 - [ ] AWS SageMaker
 - [ ] Spark
-- [ ] Sustainability + ML case studies
+- [ ] Consumer Behaviour
 - [ ] Machine Learning (#model-selection, #tuning, #feature-engineering, #scaling)
 - [ ] Azure DataBricks
 
