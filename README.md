@@ -5,7 +5,7 @@
 
 ### BIO
 
-* 💻 I’m an Engineering Data Analyst
+* 💻 I’m a Data Engineer also does Analyst work.
 * 💬 Ping me about 
   * Data Engineering (#data-collection, #etl-prod-pipeline, #api-data-extraction, #best-practices, #github)
   * Data Analysis (#exploratory-data-analysis, #data-visualization, #statistical-analysis, #automated-report-building, #requirement-gathering)
@@ -16,7 +16,7 @@
 * 📈 Learning! 
 - [ ] AWS SageMaker
 - [ ] Spark
-- [ ] Current Interests: Consumer Behaviour, Sustainable usecases
+- [ ] Current Interests: Consumer Behaviour, usecases for Sustainability
 - [ ] Machine Learning (#model-selection, #tuning, #feature-engineering, #scaling)
 - [ ] Azure DataBricks
 
@@ -58,10 +58,10 @@
 
 ### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
+<!--- BLOG-POST-LIST:START --->
 * [The Art of Statistics Ch.2 Summary](https://medium.com/@yrohitha996/the-art-of-statistics-ch-2-summary-adba3612d7a2) 
 
-<!-- BLOG-POST-LIST:END -->
+<!--- BLOG-POST-LIST:END --->
 
 ---
 
@@ -69,12 +69,15 @@
 [medium]: https://medium.com/@yrohitha996
 [linkedin]: https://www.linkedin.com/in/rohitha-yarlagadda-9b43721a7/
 
-<!--
+
+<!---
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=YRohitha&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YRohitha&langs_count=5&theme=tokyonight)]()
--->
+--->
 
+<!---
 ![](https://github-readme-stats.vercel.app/api?username=YRohitha&theme=light&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YRohitha&theme=light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YRohitha&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+--->
 
