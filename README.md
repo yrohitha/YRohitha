@@ -14,11 +14,11 @@
   * Friendly chat
 * 📊 I’m looking to collaborate with other Data Scientists and developers 
 * 📈 Learning! 
-- [ ] AWS SageMaker
-- [ ] Spark
-- [ ] Current Interests: Consumer Behaviour, usecases for Sustainability
-- [ ] Machine Learning (#model-selection, #tuning, #feature-engineering, #scaling)
 - [ ] Azure DataBricks
+- [ ] Spark
+- [ ] AWS SageMaker
+- [ ] Machine Learning (#model-selection, #tuning, #feature-engineering, #scaling)
+- [ ] Current Interests: Consumer Behaviour, use-cases for Sustainability
 
 
 ### 📫 Connect with me:
