@@ -5,7 +5,7 @@
 
 ### BIO
 
-* 💻 I’m a Data Engineer also does Analyst work.
+* 💻 I’m a Data Engineering Analyst.
 * 💬 Ping me about 
   * Data Engineering (#data-collection, #etl-prod-pipeline, #api-data-extraction, #best-practices, #github)
   * Data Analysis (#exploratory-data-analysis, #data-visualization, #statistical-analysis, #automated-report-building, #requirement-gathering)
