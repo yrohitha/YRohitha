@@ -6,12 +6,12 @@
 ### BIO
 
 * 💻 I’m a Data Engineering Analyst.
-* 💬 Ping me about 
+* 💬 Happy to talk about 
   * Data Engineering (#data-collection, #etl-prod-pipeline, #api-data-extraction, #best-practices, #github)
   * Data Analysis (#exploratory-data-analysis, #data-visualization, #statistical-analysis, #automated-report-building, #requirement-gathering)
   * Marketing (#google-analytics, #marketing-mix-models)
   * DevOps (#project-scoping, #ease-of-deployment) 
-  * Friendly chat
+  * Friendly chat? Yes! 
 * 📊 I’m looking to collaborate with other Data Scientists and developers 
 * 📈 Learning! 
 - [ ] Azure DataBricks
