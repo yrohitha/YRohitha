@@ -16,7 +16,6 @@
 * 📈 Learning! 
 - [ ] Azure DataBricks
 - [ ] Spark
-- [ ] AWS SageMaker
 - [ ] Machine Learning (#model-selection, #tuning, #feature-engineering, #scaling)
 - [ ] Current Interests: Consumer Behaviour, use-cases for Sustainability
 
