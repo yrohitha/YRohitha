@@ -14,8 +14,8 @@
   * Friendly chat? Yes! 
 * 📊 I’m looking to collaborate with other Data Scientists and developers 
 * 📈 Learning! 
-- [ ] Azure DataBricks
-- [ ] Spark
+- [x] Azure DataBricks
+- [x] Spark
 - [ ] Machine Learning (#model-selection, #tuning, #feature-engineering, #scaling)
 - [ ] Current Interests: Consumer Behaviour, use-cases for Sustainability
 
