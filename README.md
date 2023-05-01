@@ -1,7 +1,12 @@
 [![Rohitha](https://img.shields.io/badge/Rohitha-<COLOR>.svg)](https://shields.io/)  ![Profile Views](https://komarev.com/ghpvc/?username=YRohitha&color=green) ![Followers](https://img.shields.io/github/followers/YRohitha)  ![Stars](https://img.shields.io/github/stars/YRohitha/YRohitha) 
 
-### BIO
-:wave: Hi! I’m Rohitha, and I work as a Data Engineer in Growth & Marketing Insights team at [@Adobe](https://github.com/adobe).
+:wave: Hello! I’m Rohitha 
+
+
+I work as a Data Engineer in Growth & Marketing Insights team at [@Adobe](https://github.com/adobe).
+
+
+More about me:
 - 🧚🏼‍♂️ I’m currently working on helping our teams at Adobe continue improving how we collect, analyze, and process data.
 - 🤔 I’m looking for help with understanding 
   - [ ] how large organizations optimize huge data workload processing.
