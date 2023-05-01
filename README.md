@@ -2,7 +2,7 @@
 
 ### BIO
 :wave: Hi! I’m Rohitha, and I work as a Data Engineer in Growth & Marketing Insights team at [@Adobe](https://github.com/adobe).
-- 🔭 I’m currently working on helping our teams at Adobe continue improving how we collect, analyze, and process data.
+- 🧚🏼‍♂️ I’m currently working on helping our teams at Adobe continue improving how we collect, analyze, and process data.
 - 🤔 I’m looking for help with understanding 
   - [ ] how large organizations optimize huge data workload processing.
   - [ ] how to contribute to open source community.
