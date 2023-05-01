@@ -56,21 +56,3 @@ I work as a Data Engineer in Growth & Marketing Insights team at [@Adobe](https:
 
 <!--- BLOG-POST-LIST:END --->
 
----
-
-
-[medium]: https://medium.com/@yrohitha996
-[linkedin]: https://www.linkedin.com/in/rohitha-yarlagadda-9b43721a7/
-
-
-<!---
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=YRohitha&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YRohitha&langs_count=5&theme=tokyonight)]()
---->
-
-<!---
-![](https://github-readme-stats.vercel.app/api?username=YRohitha&theme=light&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=YRohitha&theme=light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YRohitha&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
---->
-
