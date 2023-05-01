@@ -1,23 +1,14 @@
 [![Rohitha](https://img.shields.io/badge/Rohitha-<COLOR>.svg)](https://shields.io/)  ![Profile Views](https://komarev.com/ghpvc/?username=YRohitha&color=green) ![Followers](https://img.shields.io/github/followers/YRohitha)  ![Stars](https://img.shields.io/github/stars/YRohitha/YRohitha) 
 
-<b> Hi there, I'm Rohitha </b>👋<br>
-
-
 ### BIO
-
-* 💻 I’m a Data Engineer.
-* 💬 Happy to talk about 
-  * Data Engineering (#data-collection, #etl-prod-pipeline, #api-data-extraction, #best-practices, #github)
-  * Data Analysis (#exploratory-data-analysis, #data-visualization, #statistical-analysis, #automated-report-building, #requirement-gathering)
-  * Marketing (#google-analytics, #marketing-mix-models)
-  * DevOps (#project-scoping, #ease-of-deployment) 
-  * Friendly chat? Yes! 
-* 📊 I’m looking to collaborate with other Data Scientists and developers 
-* 📈 Learning! 
-- [x] Azure DataBricks
-- [x] Spark
-- [ ] Machine Learning (#model-selection, #tuning, #feature-engineering, #scaling)
-- [ ] Current Interests: Consumer Behaviour, use-cases for Sustainability
+:wave: Hi! I’m Rohitha, and I work as a Data Engineer in Growth & Marketing Insights team at [@Adobe](https://github.com/adobe).
+- 🔭 I’m currently working on helping our teams at Adobe continue improving how we collect, analyze, and process data.
+- 🤔 I’m looking for help with understanding 
+  - [ ] how large organizations optimize huge data workload processing.
+  - [ ] how to contribute to open source community.
+- 🌱 I'm currently learning about using Python and GitHub Actions to automated all things the best way! 
+- 🎯 Tech Focus: Spark, Databricks, Airflow
+- 💬 Happy to talk about
 
 
 ### 📫 Connect with me:
@@ -30,6 +21,8 @@
 <br />
 
 ### Languages and Tools:
+
+<img align="left" alt="databricks" width="26px" src="https://www.vectorlogo.zone/logos/databricks/index.html"/>
 
 <img align="left" alt="python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 
