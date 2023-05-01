@@ -7,8 +7,7 @@
   - [ ] how large organizations optimize huge data workload processing.
   - [ ] how to contribute to open source community.
 - 🌱 I'm currently learning about using Python and GitHub Actions to automated all things the best way! 
-- 🎯 Tech Focus: Spark, Databricks, Airflow
-- 💬 Happy to talk about
+- 🎯 Tech Focus: Python, Spark, Databricks, Airflow, SQL
 
 
 ### 📫 Connect with me:
