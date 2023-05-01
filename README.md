@@ -6,7 +6,7 @@
 I work as a Data Engineer in Growth & Marketing Insights team at [@Adobe](https://github.com/adobe).
 
 
-More about me:
+#### 👩🏻‍💻 More about me:
 - 🧚🏼‍♂️ I’m currently working on helping our teams at Adobe continue improving how we collect, analyze, and process data.
 - 🤔 I’m looking for help with understanding 
   - [ ] how large organizations optimize huge data workload processing.
@@ -15,16 +15,13 @@ More about me:
 - 🎯 Tech Focus: Python, Spark, Databricks, Airflow, SQL
 
 
-### 📫 Connect with me:
+#### 📫 Connect with me:
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/rohitha-yarlagadda-9b43721a7/)
 
-[<img align="left" alt="cabreirajm | medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />](https://medium.com/@yrohitha996)
-
-
 <br />
 
-### Languages and Tools:
+#### Languages and Tools:
 
 <img align="left" alt="databricks" width="26px" src="https://www.vectorlogo.zone/logos/databricks/index.html"/>
 
