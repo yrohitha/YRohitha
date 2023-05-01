@@ -8,7 +8,7 @@ I work as a Data Engineer in Growth & Marketing Insights team at [@Adobe](https:
 
 #### 👩🏻‍💻 More about me:
 - 🧚🏼‍♂️ I’m currently working on helping our teams at Adobe continue improving how we collect, analyze, and process data.
-- 🤔 I’m looking for help with understanding 
+- 🤖 I’m looking for help with understanding 
   - [ ] how large organizations optimize huge data workload processing.
   - [ ] how to contribute to open source community.
 - 🌱 I'm currently learning about using Python and GitHub Actions to automated all things the best way! 
@@ -23,8 +23,7 @@ I work as a Data Engineer in Growth & Marketing Insights team at [@Adobe](https:
 
 #### Languages and Tools:
 
-<img align="left" alt="databricks" width="26px" src="https://www.vectorlogo.zone/logos/databricks/index.html"/>
-
+<img align="left" alt="databricks" width="70px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/databricks_logo_icon_169299.png"/>
 <img align="left" alt="python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 
 <img align="left" alt="visual studio code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
