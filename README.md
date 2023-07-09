@@ -10,7 +10,7 @@ I work as a Data Engineer in Growth & Marketing Insights team at [@Adobe](https:
 - 🎯 Tech Focus: Python, Spark, Databricks, Airflow, SQL, Data Engineering.
 
 #### 📫 Socials - Let's Connect!
-[LinkedIn](https://www.linkedin.com/in/rohithayarlagadda/) &bullet; [Gmail](yrohitha996@gmail.com) &bullet; [Leetcode](https://leetcode.com/RohithaYarlagadda/) 
+[LinkedIn](https://www.linkedin.com/in/rohithayarlagadda/) &bullet; [Gmail](yrohitha996@gmail.com)
 
 #### 🧰 Languages and Tools:
 
