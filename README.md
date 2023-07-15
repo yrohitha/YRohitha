@@ -69,7 +69,7 @@ Feel free to reach out for a chat: yrohitha996@gmail.com
 
 - `office essentials` : <img align="middle" alt="google sheet" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/> <img align="middle" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> <img align="middle" alt="sharepoint" src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white"/> <img align="middle" alt="excel" src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white"/> <img align="middle" alt="excel" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 
-- `Agile Project Management & Change Management` : <img align="middle" alt="jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/> , ServiceNow
+- `Agile Project Management & Ticketing Tools` : <img align="middle" alt="jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/> , ServiceNow
 
 - `documentation` :  <img align="middle" alt="confluence" src="https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
 
