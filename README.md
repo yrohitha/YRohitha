@@ -9,7 +9,7 @@ I work as a Data Engineer in Growth & Marketing Insights team at [@Adobe](https:
 - 🧚🏼‍♂️ I’m currently working on helping our teams at Adobe continue improving how we collect, analyze, and process data.
 
 
-#### 📫 **Let's Connect**
+#### 📫 **How to reach me...**
 Feel free to reach out for a chat: yrohitha996@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/rohithayarlagadda/)
@@ -75,11 +75,13 @@ Feel free to reach out for a chat: yrohitha996@gmail.com
 
 - `terminal` : <img align="middle" alt="confluence" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
 
-- `Ad Management or Marketing Tools` : <img align="middle" alt="confluence" src="https://img.shields.io/badge/googleads-4285F4?style=for-the-badge&logo=googleads&logoColor=white"/> adobe analytics
+- `Ad Management or Marketing Tools` : <img align="middle" alt="confluence" src="https://img.shields.io/badge/googleads-4285F4?style=for-the-badge&logo=googleads&logoColor=white"/> <img align="middle" alt="googleanalytics" src="https://img.shields.io/badge/googleanalytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
 
-- `Blog platforms` : google blog, wordpress, medium
+- `Blog platforms` : <img align="middle" alt="wordpress" src="https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>  <img align="middle" alt="medium" src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+
 - `Social platforms` : linkedin, reddit, twitter, kaggle, hackerrank
-- `Design tools` : canva
+- `Design tools` : <img align="middle" alt="canva" src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+
 - `Social Media Marketing` : Facebook, Youtube, Display, Paid Search, Tiktok, Snapchat
 
 <br />
