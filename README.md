@@ -21,7 +21,7 @@ Feel free to reach out for a chat: yrohitha996@gmail.com
 
 - `frameworks` : <img align="middle" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   
-- `libraries` : <img align="middle" alt="pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/> scipy
+- `libraries` : <img align="middle" alt="pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/> <img align="middle" alt="scipy" src="https://img.shields.io/badge/scipy-8CAAE6.svg?style=for-the-badge&logo=scipy&logoColor=white"/> 
 
 - `operating system` : <img align="middle" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img align="middle" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 
