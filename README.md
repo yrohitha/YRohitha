@@ -47,7 +47,7 @@ Feel free to reach out for a chat: yrohitha996@gmail.com &bullet; [LinkedIn](htt
 
 - `Job scheduling & orchestration` : <img align="middle" alt="apacheairflow" src="https://img.shields.io/badge/apacheairflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/> <img align="middle" alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=black"/>, tidal
 
-- `data quality & governance` : <img align="middle" alt="django" src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+- `data quality & governance` : <img align="middle" alt="dbt" src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>, Great Expectations
 
 
 #### **API Development:**
@@ -81,21 +81,20 @@ Feel free to reach out for a chat: yrohitha996@gmail.com &bullet; [LinkedIn](htt
 
 - `office essentials` : <img align="middle" alt="google sheet" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/> <img align="middle" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> <img align="middle" alt="sharepoint" src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white"/> <img align="middle" alt="excel" src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white"/> <img align="middle" alt="excel" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 
-- `Agile Project Management & Ticketing Tools` : <img align="middle" alt="jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/> , ServiceNow
+- `Project Management Tools` : <img align="middle" alt="jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/> , ServiceNow
 
 - `documentation` :  <img align="middle" alt="confluence" src="https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
 
 - `terminal` : <img align="middle" alt="confluence" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
 
-- `Ad Management or Marketing Tools` : <img align="middle" alt="confluence" src="https://img.shields.io/badge/googleads-4285F4?style=for-the-badge&logo=googleads&logoColor=white"/> <img align="middle" alt="googleanalytics" src="https://img.shields.io/badge/googleanalytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+- `Ad Management or Marketing Tools` : <img align="middle" alt="confluence" src="https://img.shields.io/badge/googleads-4285F4?style=for-the-badge&logo=googleads&logoColor=white"/> <img align="middle" alt="googleanalytics" src="https://img.shields.io/badge/googleanalytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/>, adobe analytics
 
-- `Blog platforms` : <img align="middle" alt="wordpress" src="https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>  <img align="middle" alt="medium" src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+- `Blogging platforms` : <img align="middle" alt="wordpress" src="https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>  <img align="middle" alt="medium" src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
 
 - `Design tools` : <img align="middle" alt="canva" src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 
-- `Social Media Marketing` : <img align="middle" alt="youtube" src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> <img align="middle" alt="facebook" src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> <img align="middle" alt="tiktok" src="https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/> <img align="middle" alt="snapchat" src="https://img.shields.io/badge/snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"/>
+- `Social Media Marketing & Reporting` : <img align="middle" alt="youtube" src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> <img align="middle" alt="facebook" src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> <img align="middle" alt="tiktok" src="https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/> <img align="middle" alt="snapchat" src="https://img.shields.io/badge/snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"/>
 
-<br />
 
 #### ✍🏼 Latest Blog Posts:
 
