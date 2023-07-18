@@ -82,7 +82,7 @@ Feel free to reach out for a chat: yrohitha996@gmail.com
 - `Social platforms` : linkedin, reddit, twitter, kaggle, hackerrank
 - `Design tools` : <img align="middle" alt="canva" src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 
-- `Social Media Marketing` : Facebook, Youtube, Display, Paid Search, Tiktok, Snapchat
+- `Social Media Marketing` : <img align="middle" alt="youtube" src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> <img align="middle" alt="facebook" src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> <img align="middle" alt="tiktok" src="https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/> <img align="middle" alt="snapchat" src="https://img.shields.io/badge/snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"/>, Paid Search 
 
 <br />
 
