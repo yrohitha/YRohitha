@@ -5,16 +5,24 @@
 I work as a Data Engineer in Growth & Marketing Insights team at [@Adobe](https://github.com/adobe).
 
 
-#### 👩🏻‍💻 **About me:**
-- 🧚🏼‍♂️ I’m currently working on helping our teams at Adobe continue improving how we collect, analyze, and process data.
+## 👩🏻‍💻 **About me:**
 
+### **🎩 Past Experiences**
+- 
 
-#### 📫 **How to reach me...**
-Feel free to reach out for a chat: yrohitha996@gmail.com
+### **📚 I'm learning...**
+- Code Refactoring & Python Best Practices
+- Optimizing Huge Data workloads
+- GitHub Actions
+- Automating CI/CD using GitHub Integration in IDEs
+- Digital Marketing Concepts & Tools
+- Prompt Engineering
+- Interesting Consumer product companies in the industry
 
-[LinkedIn](https://www.linkedin.com/in/rohithayarlagadda/)
+### 📫 **How to reach me...**
+Feel free to reach out for a chat: yrohitha996@gmail.com &bullet; [LinkedIn](https://www.linkedin.com/in/rohithayarlagadda/)
 
-## 💝 **Skills**
+### 💝 **Skills**
 #### **Programming and OS:**
 
 - `languages` : <img align="middle" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> <img align="middle" alt="shell script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>  <img align="middle" alt="markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/> <img align="middle" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/> <img align="middle" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -49,7 +57,7 @@ Feel free to reach out for a chat: yrohitha996@gmail.com
 
 #### **Storage:**
 
-- `databases` : <img align="middle" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> <img align="middle" alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/> <img align="middle" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <img align="middle" alt="mysql" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+- `databases` : <img align="middle" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> <img align="middle" alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/> <img align="middle" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <img align="middle" alt="mysql" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img align="middle" alt="amazons3" src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
 
 - `data warehouses` : <img align="middle" alt="postgres" src="https://img.shields.io/badge/apachehive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black"/>
 
