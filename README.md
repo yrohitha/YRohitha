@@ -11,13 +11,12 @@ I work as a Data Engineer in Growth & Marketing Insights team at [@Adobe](https:
 - 
 
 ### **📚 I'm learning...**
-- Code Refactoring & Python Best Practices
-- Optimizing Huge Data workloads
-- GitHub Actions
-- Automating CI/CD using GitHub Integration in IDEs
-- Digital Marketing Concepts & Tools
-- Prompt Engineering
-- Interesting Consumer product companies in the industry
+- SWE: Quality Code & Python Best Practices
+- DE: Optimizing Huge Data workloads
+- CICD: GitHub Actions, Automating CI/CD using GitHub Integration in IDEs
+- Domain Knowledge: Digital Marketing Concepts & Tools
+- Personal Productivity: Prompt Engineering
+- Inspirational: Interesting Consumer product companies in the industry
 
 ### 📫 **How to reach me...**
 Feel free to reach out for a chat: yrohitha996@gmail.com &bullet; [LinkedIn](https://www.linkedin.com/in/rohithayarlagadda/)
@@ -31,7 +30,29 @@ Feel free to reach out for a chat: yrohitha996@gmail.com &bullet; [LinkedIn](htt
   
 - `libraries` : <img align="middle" alt="pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/> <img align="middle" alt="scipy" src="https://img.shields.io/badge/scipy-8CAAE6.svg?style=for-the-badge&logo=scipy&logoColor=white"/> 
 
-- `operating system` : <img align="middle" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img align="middle" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+- `operating system` : <img align="middle" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img align="middle" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img align="middle" alt="macos" src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=white"/>
+
+
+#### **Big Data Ecosystem:**
+
+- `databases` : <img align="middle" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> <img align="middle" alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/> <img align="middle" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <img align="middle" alt="mysql" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+- `data warehouses` : <img align="middle" alt="postgres" src="https://img.shields.io/badge/apachehive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black"/>
+
+- `storage`: <img align="middle" alt="amazons3" src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+
+- `processing frameworks` : <img align="middle" alt="apachespark" src="https://img.shields.io/badge/apachespark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/> <img align="middle" alt="apachehadoop" src="https://img.shields.io/badge/apachehadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
+
+- `data platforms` : <img align="middle" alt="databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white"/>
+
+- `Job scheduling & orchestration` : <img align="middle" alt="apacheairflow" src="https://img.shields.io/badge/apacheairflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/> <img align="middle" alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=black"/>, tidal
+
+- `data quality & governance` : <img align="middle" alt="django" src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+
+
+#### **API Development:**
+
+- `API testing` : <img align="middle" alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 
 #### **Version control and CICD:**
@@ -50,28 +71,11 @@ Feel free to reach out for a chat: yrohitha996@gmail.com &bullet; [LinkedIn](htt
 - `cloud` : <img align="middle" alt="aws" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img align="middle" alt="google cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/> <img align="middle" alt="azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 
 
-#### **API Development:**
-
-- `API testing` : <img align="middle" alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-
-
-#### **Storage:**
-
-- `databases` : <img align="middle" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> <img align="middle" alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/> <img align="middle" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <img align="middle" alt="mysql" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img align="middle" alt="amazons3" src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
-
-- `data warehouses` : <img align="middle" alt="postgres" src="https://img.shields.io/badge/apachehive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black"/>
-
-
-#### **Big Data Ecosystem:**
-
-- `ETL` : <img align="middle" alt="databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white"/> <img align="middle" alt="apachespark" src="https://img.shields.io/badge/apachespark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/> <img align="middle" alt="apachehadoop" src="https://img.shields.io/badge/apachehadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>  
-
-- `Orchestration` : <img align="middle" alt="apacheairflow" src="https://img.shields.io/badge/apacheairflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/> <img align="middle" alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=black"/>
-
-
 #### **Other tools:**
 
-- `IDE` : <img align="middle" alt="visual studio code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img align="middle" alt="pycharm" src="https://img.shields.io/badge/pycharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white"/> <img align="middle" alt="sublimetext" src="https://img.shields.io/badge/sublimetext-FF9800.svg?style=for-the-badge&logo=sublimetext&logoColor=white"/> <img align="middle" alt="atom" src="https://img.shields.io/badge/atom-66595C.svg?style=for-the-badge&logo=atom&logoColor=white"/> <img align="middle" alt="vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/> <img align="middle" alt="colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
+- `IDE` : <img align="middle" alt="visual studio code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img align="middle" alt="pycharm" src="https://img.shields.io/badge/pycharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white"/> <img align="middle" alt="sublimetext" src="https://img.shields.io/badge/sublimetext-FF9800.svg?style=for-the-badge&logo=sublimetext&logoColor=white"/> <img align="middle" alt="atom" src="https://img.shields.io/badge/atom-66595C.svg?style=for-the-badge&logo=atom&logoColor=white"/> <img align="middle" alt="vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
+
+- `notebooks` : <img align="middle" alt="colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/> <img align="middle" alt="jupyter" src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&color=525252"/>
 
 - `linters` : <img align="middle" alt="pandas" src="https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white"/>
 
@@ -87,10 +91,9 @@ Feel free to reach out for a chat: yrohitha996@gmail.com &bullet; [LinkedIn](htt
 
 - `Blog platforms` : <img align="middle" alt="wordpress" src="https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>  <img align="middle" alt="medium" src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
 
-- `Social platforms` : linkedin, reddit, twitter, kaggle, hackerrank
 - `Design tools` : <img align="middle" alt="canva" src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 
-- `Social Media Marketing` : <img align="middle" alt="youtube" src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> <img align="middle" alt="facebook" src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> <img align="middle" alt="tiktok" src="https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/> <img align="middle" alt="snapchat" src="https://img.shields.io/badge/snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"/>, Paid Search 
+- `Social Media Marketing` : <img align="middle" alt="youtube" src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> <img align="middle" alt="facebook" src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> <img align="middle" alt="tiktok" src="https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/> <img align="middle" alt="snapchat" src="https://img.shields.io/badge/snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"/>
 
 <br />
 
