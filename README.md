@@ -11,7 +11,7 @@ I work as a Data Engineer in Growth & Marketing Insights team at [@Adobe](https:
 - 
 
 ### 📚 I'm learning...
-- SWE: Quality Code & Python Best Practices
+- SWE: Quality Code & Python Best Practices, TDD
 - DE: Optimizing Huge Data workloads
 - CICD: GitHub Actions, Automating CI/CD using GitHub Integration in IDEs
 - Domain Knowledge: Digital Marketing Concepts & Tools
