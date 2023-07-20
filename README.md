@@ -16,6 +16,7 @@ I work as a Data Engineer in Growth & Marketing Insights team at [@Adobe](https:
 - CICD: GitHub Actions, Automating CI/CD using GitHub Integration in IDEs
 - Domain Knowledge: Digital Marketing Concepts & Tools
 - Personal Productivity: Prompt Engineering
+- Current Intersts: Data Products, Open Source Software
 
 
 ### 📫 How to reach me...
