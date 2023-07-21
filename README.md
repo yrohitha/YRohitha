@@ -11,12 +11,12 @@ I work as a Data Engineer in Growth & Marketing Insights team at [@Adobe](https:
 - 
 
 ### 📚 I'm learning...
-- SWE: Quality Code & Python Best Practices, TDD
-- DE: Optimizing Huge Data workloads
-- CICD: GitHub Actions, Automating CI/CD using GitHub Integration in IDEs
-- Domain Knowledge: Digital Marketing Concepts & Tools
-- Personal Productivity: Prompt Engineering
-- Current Intersts: Data Products, Open Source Software
+- `SWE`: Quality Code & Python Best Practices, TDD
+- `DE`: Optimizing Huge Data workloads
+- `CICD`: GitHub Actions, Automating CI/CD using GitHub Integration in IDEs
+- `domain knowledge`: Digital Marketing Concepts & Tools
+- `personal productivity`: Prompt Engineering
+- `current intersts`: Data Products, Open Source Software
 
 
 ### 📫 How to reach me...
@@ -29,7 +29,7 @@ Feel free to reach out for a chat: yrohitha996@gmail.com &bullet; [LinkedIn](htt
 
 - `web development languages` : <img align="middle" alt="markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/> <img align="middle" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> <img align="middle" alt="css3" src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-- `frameworks` : <img align="middle" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img align="middle" alt="angular" src="https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+- `frameworks` : <img align="middle" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img align="middle" alt="angular" src="https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/> <img align="middle" alt="jquery" src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
 
 - `scientific libraries` : <img align="middle" alt="pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/> <img align="middle" alt="scipy" src="https://img.shields.io/badge/scipy-8CAAE6.svg?style=for-the-badge&logo=scipy&logoColor=white"/> <img align="middle" alt="numpy" src="https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
 
@@ -43,6 +43,8 @@ Feel free to reach out for a chat: yrohitha996@gmail.com &bullet; [LinkedIn](htt
 - `object data stores`: <img align="middle" alt="amazons3" src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/> <img align="middle" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img align="middle" alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>, HDFS, azure blob 
 
 - `data warehouses` : <img align="middle" alt="postgres" src="https://img.shields.io/badge/apachehive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black"/>
+
+- `data lakes` : 
 
 - `big data development & processing frameworks` : <img align="middle" alt="apachespark" src="https://img.shields.io/badge/apachespark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/> <img align="middle" alt="apachehadoop" src="https://img.shields.io/badge/apachehadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
 
@@ -101,7 +103,7 @@ Feel free to reach out for a chat: yrohitha996@gmail.com &bullet; [LinkedIn](htt
 
 - `social media ads reporting APIs` : <img align="middle" alt="youtube" src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> <img align="middle" alt="facebook" src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> <img align="middle" alt="tiktok" src="https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/> <img align="middle" alt="snapchat" src="https://img.shields.io/badge/snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"/>
 
-- `data science concepts` : `statistics`, `machine learning`, `A/B testing`, `marketing mix models`
+- `data science concepts` : `statistics`, `machine learning`, `A/B testing`, `marketing mix models`, `descriptive data analysis`
 - `project delivery methodologies` : `agile`
 
 
