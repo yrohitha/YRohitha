@@ -101,7 +101,7 @@ Feel free to reach out for a chat: yrohitha996@gmail.com &bullet; [LinkedIn](htt
 
 - `design tools` : <img align="middle" alt="canva" src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 
-- `social media ads reporting APIs` : <img align="middle" alt="youtube" src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> <img align="middle" alt="facebook" src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> <img align="middle" alt="tiktok" src="https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/> <img align="middle" alt="snapchat" src="https://img.shields.io/badge/snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"/>
+- `social media ads reporting API integrations` : <img align="middle" alt="youtube" src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> <img align="middle" alt="facebook" src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> <img align="middle" alt="tiktok" src="https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/> <img align="middle" alt="snapchat" src="https://img.shields.io/badge/snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"/> <img align="middle" alt="googleads" src="https://img.shields.io/badge/googleads-4285F4?style=for-the-badge&logo=googleads&logoColor=white"/>
 
 - `data science concepts` : `statistics`, `machine learning`, `A/B testing`, `marketing mix models`, `descriptive data analysis`, `hypothesis testing`
 - `project delivery methodologies` : `agile`
