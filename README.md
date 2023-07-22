@@ -95,7 +95,7 @@ Feel free to reach out for a chat: yrohitha996@gmail.com &bullet; [LinkedIn](htt
 
 - `terminal` : <img align="middle" alt="confluence" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
 
-- `ad management or marketing tools` : <img align="middle" alt="confluence" src="https://img.shields.io/badge/googleads-4285F4?style=for-the-badge&logo=googleads&logoColor=white"/> <img align="middle" alt="googleanalytics" src="https://img.shields.io/badge/googleanalytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/>, Adobe Analytics
+- `ad measurement platforms` : <img align="middle" alt="confluence" src="https://img.shields.io/badge/googleads-4285F4?style=for-the-badge&logo=googleads&logoColor=white"/> <img align="middle" alt="googleanalytics" src="https://img.shields.io/badge/googleanalytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/>, Adobe Analytics
 
 - `blogging platforms` : <img align="middle" alt="wordpress" src="https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>  <img align="middle" alt="medium" src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
 
