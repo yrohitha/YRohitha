@@ -97,7 +97,7 @@ Feel free to reach out for a chat: yrohitha996@gmail.com &bullet; [LinkedIn](htt
 
 - `ad measurement platforms` : <img align="middle" alt="confluence" src="https://img.shields.io/badge/googleads-4285F4?style=for-the-badge&logo=googleads&logoColor=white"/> <img align="middle" alt="googleanalytics" src="https://img.shields.io/badge/googleanalytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/>, Adobe Analytics
 
-- `blogging platforms` : <img align="middle" alt="wordpress" src="https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>  <img align="middle" alt="medium" src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+- `blogging platforms` : <img align="middle" alt="wordpress" src="https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>  <img align="middle" alt="medium" src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=blogger&logoColor=white"/> <img align="middle" alt="medium" src="https://img.shields.io/badge/blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>
 
 - `design tools` : <img align="middle" alt="canva" src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 
