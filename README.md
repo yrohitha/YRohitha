@@ -7,9 +7,6 @@ I work as a Data Engineer in Growth & Marketing Insights team at [@Adobe](https:
 
 ## 👩🏻‍💻 About me:
 
-### 🎩 **Past Experiences**
-- 
-
 ### 📚 I'm learning...
 - `SWE`: Quality Code & Python Best Practices, TDD
 - `DE`: Optimizing Huge Data workloads
