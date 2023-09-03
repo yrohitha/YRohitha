@@ -19,6 +19,7 @@ I work as a Data Engineer in Growth & Marketing Insights team at [@Adobe](https:
 - [ ] `scalable indexing backends`: `elastic search`
 - [ ] `open source analytics`: `data proc`, `dbt`
 - [ ] `workflow management systems`: `dagster`, `prefect`
+- [ ] `community`: Be a part of community I connect with deeply.
 
 ### Certifications:
 - [ ] Databricks Data Engineer Associate v3
