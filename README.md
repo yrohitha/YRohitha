@@ -9,17 +9,18 @@ I work as a Data Engineer in Growth & Marketing Insights team at [@Adobe](https:
 
 ### 📚 I'm learning...
 
-- [ ] `DE`: Optimizing Huge Data workloads
-- [ ] `SWE`: Quality Code & Python Best Practices, TDD 
+- [ ] `DE`:
+  - [ ] Optimizing Huge Data workloads
+  - [ ] Build cost-effective pipelines
+  - [ ] Data Modeling
+  - [ ] Analyse Storage Performance
+- [ ] `SWE`:
+  - [ ] Quality Code & Python Best Practices
+  - [ ] Test Driven Development 
 - [ ] `current reads`: HBR 10 must reads bundle 
 - [ ] `current intersts`: Data Community, Open Source Software, Research Areas
-- [ ] `ML`: learning how to prompt, vector databases, NLP
-- [ ] `scalable indexing backends`: `elastic search`
-- [ ] `open source analytics`: `data proc`, `dbt`
-- [ ] `workflow management systems`: `dagster`, `prefect`
 - [ ] `community`: Be a part of community I connect with deeply.
-- [x] `CICD`: GitHub Actions, Automating CI/CD using GitHub Integration in IDEs
-- [x] `domain knowledge`: Digital Marketing, Ad Tech Concepts & Tools
+
 
 ### Certifications:
 - [ ] Databricks Data Engineer Associate v3
