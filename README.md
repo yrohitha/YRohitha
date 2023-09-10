@@ -5,28 +5,6 @@
 I work as a Data Engineer in Growth & Marketing Insights team at [@Adobe](https://github.com/adobe).
 
 
-## 👩🏻‍💻 About me:
-
-### 📚 I'm learning...
-
-- [ ] `DE`:
-  - [ ] Optimizing Huge Data workloads
-  - [ ] Build cost-effective pipelines
-  - [ ] Data Modeling
-  - [ ] Analyse Storage Performance
-- [ ] `SWE`:
-  - [ ] Quality Code & Python Best Practices
-  - [ ] Test Driven Development 
-- [ ] `current reads`: HBR 10 must reads bundle 
-- [ ] `current intersts`: Data Community, Open Source Software, Research Areas
-- [ ] `community`: Be a part of community I connect with deeply.
-
-
-### Certifications:
-- [ ] Databricks Data Engineer Associate v3
-- [ ] Azure & Google Cloud Engineer Learning Paths
-
-
 ### 📫 How to reach me...
 Feel free to reach out for a chat: yrohitha996@gmail.com &bullet; [LinkedIn](https://www.linkedin.com/in/rohithayarlagadda/)
 
