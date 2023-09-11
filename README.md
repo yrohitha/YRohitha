@@ -28,15 +28,13 @@ Feel free to reach out for a chat: yrohitha996@gmail.com &bullet; [LinkedIn](htt
 
 - `object data stores`: <img align="middle" alt="amazons3" src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/> <img align="middle" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img align="middle" alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>, HDFS, azure blob 
 
-- `data warehouses` : <img align="middle" alt="postgres" src="https://img.shields.io/badge/apachehive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black"/>
-
-- `data lakes` : 
+- `data warehouses` : <img align="middle" alt="hive" src="https://img.shields.io/badge/apachehive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black"/> <img align="middle" alt="redshift" src="https://img.shields.io/badge/amazonredshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=black"/> <img align="middle" alt="bigquery" src="https://img.shields.io/badge/googlebigquery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=black"/>
 
 - `big data development & processing frameworks` : <img align="middle" alt="apachespark" src="https://img.shields.io/badge/apachespark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/> <img align="middle" alt="apachehadoop" src="https://img.shields.io/badge/apachehadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
 
 - `data platforms` : <img align="middle" alt="databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white"/>
 
-- `job scheduling & orchestration` : <img align="middle" alt="apacheairflow" src="https://img.shields.io/badge/apacheairflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/> , Oozie, Adobe Dart, Tidal
+- `job scheduling & orchestration` : <img align="middle" alt="apacheairflow" src="https://img.shields.io/badge/apacheairflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>, Oozie, Adobe Dart, Tidal
 
 - `data quality & governance` : <img align="middle" alt="dbt" src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>, Great Expectations
 
