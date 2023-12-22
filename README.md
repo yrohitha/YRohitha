@@ -2,7 +2,7 @@
 
 :wave: Hi! I’m Rohitha. 
 
-I work as a Data Engineer in Growth & Marketing Insights team at [@Adobe](https://github.com/adobe).
+I work as a Senior Data Engineer in wiqRetail team at [@Quantium](https://quantium.com.au/).
 
 
 ### 📫 How to reach me...
