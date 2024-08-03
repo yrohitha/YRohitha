@@ -2,7 +2,7 @@
 
 :wave: Hi! I’m Rohitha. 
 
-I work as a Senior Data Engineer in wiqRetail team at [@Quantium](https://quantium.com.au/).
+I work as a Senior Data Engineer for WiQ Retail at [@Quantium](https://quantium.com.au/).
 
 
 ### 📫 How to reach me...
