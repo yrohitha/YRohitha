@@ -1,8 +1,12 @@
-[![Rohitha](https://img.shields.io/badge/Rohitha-<COLOR>.svg)](https://shields.io/)  ![Profile Views](https://komarev.com/ghpvc/?username=YRohitha&color=green)
+## 🙋🏻‍♀️ About me
 
-:wave: Hi! I’m Rohitha. 
+- I believe in the power of advocating for women at work, creativity, engineering, first principle thinking.
+- I'm currently writing about team dynamics, productivity, ADHD and organisation culture.
+- I love making to-do lists, reading books and am a big Deming's fan.
+- I volunteer for tech communities such as: [Hasgeek](https://hasgeek.com), [FOSS United](https://fossunited.org/home)
 
-I work as a Senior Data Engineer for WiQ Retail at [@Quantium](https://quantium.com.au/).
 
-### 📫 How to reach me
-Feel free to reach out for a chat: yrohitha996@gmail.com &bullet; [LinkedIn](https://www.linkedin.com/in/rohithayarlagadda/)
+## 📬 Socials
+
+- Networking on [LinkedIn](https://www.linkedin.com/in/rohithayarlagadda/)
+- Blogging at [Medium](https://medium.com/@yrohitha996)
