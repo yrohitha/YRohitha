@@ -1,5 +1,6 @@
 ## 🙋🏻‍♀️ About me
 
+😄 Pronouns: She/Her
 - I love making friends, making to-do lists, listening to music and reading books.
 - I believe in the power of advocating for women at work, creativity, engineering, first principle thinking.
 - I'm currently writing about team dynamics, productivity, ADHD and organisation culture.
